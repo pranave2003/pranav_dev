@@ -284,7 +284,7 @@ class HeroSection extends StatelessWidget {
           ],
         ),
         child: ClipOval(
-          child: Image.asset('Assets/Skills/pranav.jpeg', fit: BoxFit.cover),
+          child: Image.asset('Assets/Skills/pranav.jpeg', fit: BoxFit.fill),
         ),
       ),
     );
